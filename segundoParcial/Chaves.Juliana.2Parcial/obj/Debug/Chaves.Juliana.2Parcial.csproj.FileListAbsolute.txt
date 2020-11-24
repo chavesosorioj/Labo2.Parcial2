@@ -1,0 +1,15 @@
+C:\Users\chave\Source\Repositorios\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.FrmPrincipal.resources
+C:\Users\chave\Source\Repositorios\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.Properties.Resources.resources
+C:\Users\chave\Source\Repositorios\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.GenerateResource.cache
+C:\Users\chave\Source\Repositorios\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\2PARCIAL\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\2PARCIAL\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.FrmPrincipal.resources
+C:\Users\chave\Source\Repositorios\2PARCIAL\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.Properties.Resources.resources
+C:\Users\chave\Source\Repositorios\2PARCIAL\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.GenerateResource.cache
+C:\Users\chave\Source\Repositorios\2PARCIAL\SEGUNDO PARCIAL TODO\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.CoreCompileInputs.cache
+C:\Users\chave\Source\Repositorios\segundoParcial\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csprojAssemblyReference.cache
+C:\Users\chave\Source\Repositorios\segundoParcial\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.FrmPrincipal.resources
+C:\Users\chave\Source\Repositorios\segundoParcial\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana._2Parcial.Properties.Resources.resources
+C:\Users\chave\Source\Repositorios\segundoParcial\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.GenerateResource.cache
+C:\Users\chave\Source\Repositorios\segundoParcial\Chaves.Juliana.2Parcial\obj\Debug\Chaves.Juliana.2Parcial.csproj.CoreCompileInputs.cache
